@@ -124,5 +124,4 @@ Visualizes correlation between content ratings and duration.
  - Automate data updates via API or web scraping.
 
    
-me-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&color=E50914&center=true&vCenter=true&width=500&lines=Thanks+for+Reading+❤️;Don't+forget+to+⭐+the+repository!">
-</h3> 
+
